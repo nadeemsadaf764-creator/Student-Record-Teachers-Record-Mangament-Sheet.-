@@ -1,0 +1,2 @@
+# Student-Record-Teachers-Record-Mangament-Sheet.-
+Student and Teacher Record Management Sheet is an Excel system used to store and manage student and teacher data in an organized way. It includes details like IDs, names, attendance, fees, subjects, and contact information, making it easy to update, search, and analyze records quickly♥️
